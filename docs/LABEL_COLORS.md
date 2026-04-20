@@ -12,9 +12,9 @@ The following table lists **all existing labels** in the repository, grouped by 
 | `enhancement` | issue-type | New feature or request |
 | `question` | issue-type | Further information is requested |
 | `documentation` | area | Improvements or additions to documentation |
+| `duplicate` | status | This issue or pull request already exists |
 | `help wanted` | status | Extra attention is needed |
 | `good first issue` | status | Good for newcomers |
-| `duplicate` | status | This issue or pull request already exists |
 | `invalid` | status | This doesn't seem right |
 | `wontfix` | status | This will not be worked on |
 
@@ -32,9 +32,9 @@ Use these labels to identify the **domain** or **component** affected:
 
 ### Status Labels
 Use these labels to indicate the **current state** or **resolution intent** of an issue or PR:
+- **`duplicate`**: Apply when the issue is a duplicate of an existing issue; reference the original issue in a comment.
 - **`help wanted`**: Apply when an issue needs community assistance or additional investigation.
 - **`good first issue`**: Apply to issues that are well-scoped and suitable for new contributors to pick up.
-- **`duplicate`**: Apply when the issue is a duplicate of an existing issue; reference the original issue in a comment.
 - **`invalid`**: Apply when an issue is off-topic, spam, or does not contain enough information to be actionable.
 - **`wontfix`**: Apply when the maintainers have decided not to address the issue, usually after discussion.
 
