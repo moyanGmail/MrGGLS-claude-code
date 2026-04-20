@@ -2,7 +2,7 @@
 
 ## Summary Statistics
 
-Total commits analyzed: 10
+Total commits analyzed: 16
 
 Number of Claude co-authored commits found: 0
 
